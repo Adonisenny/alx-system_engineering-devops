@@ -1,1 +1,2 @@
--e#!/bin/bash\nvincent:staff ./
+#!/bin/bash
+staff:vincent ./
